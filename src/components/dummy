@@ -1,0 +1,5 @@
+ <img src="images/officd.jpeg" className='h-60 mt-24 rounded-2xl' />
+
+ <div className='basis-[30%]  h-60 w-full  justify-start ml-0'>
+    <img src="images/officd.jpeg" className='h-60 mt-24 rounded-2xl' />
+</div>
